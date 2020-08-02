@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map for PCA9698
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PCA9698	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+outputEnable		KEYWORD2
+outputDisable		KEYWORD2
+writeReg		KEYWORD2
+readReg			KEYWORD2
+digitalWriteALL		KEYWORD2
+writeMultiReg		KEYWORD2
+setOutputs		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
